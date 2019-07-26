@@ -10,6 +10,7 @@ export const Container = styled.div`
 `;
 
 export const Current = styled.div`
+  width: 150px;
   display: flex;
   align-items: center;
 
