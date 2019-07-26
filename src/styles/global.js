@@ -21,6 +21,10 @@ const GlobalStyle = createGlobalStyle`
     font-family: 'Montserrat', sans-serif;
     color: #fff;
   }
+
+  button:hover {
+    cursor: pointer;
+  }
 `;
 
 export default GlobalStyle;
